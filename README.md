@@ -36,8 +36,6 @@ The dataset used is the [Kaggle Credit Card Fraud Detection dataset](https://www
 * Decision Tree Classifier
 * Random Forest Classifier
 * Support Vector Machine (SVM)
-* XGBoost Classifier (optional/bonus)
-* SMOTE for oversampling the minority class
 
 
 ## 🧪 Evaluation Metrics
@@ -47,7 +45,6 @@ Since the dataset is highly imbalanced, accuracy is not a reliable metric. The f
 * **Precision**
 * **Recall**
 * **F1-Score**
-* **ROC AUC**
 * **Confusion Matrix**
 
 ## 🗂️ Project Structure
