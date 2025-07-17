@@ -36,6 +36,8 @@ The dataset used is the [Kaggle Credit Card Fraud Detection dataset](https://www
 * Decision Tree Classifier
 * Random Forest Classifier
 * Support Vector Machine (SVM)
+* XGBoost Classifier (optional/bonus)
+* SMOTE for oversampling the minority class
 
 
 ## 🧪 Evaluation Metrics
