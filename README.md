@@ -49,14 +49,6 @@ Since the dataset is highly imbalanced, accuracy is not a reliable metric. The f
 * **F1-Score**
 * **Confusion Matrix**
 
-## 🗂️ Project Structure
-
-Credit_Card_Fraud_Detection/
-│
-├── Credit_Card_Fraud_Detection.ipynb    # Main notebook
-├── README.md                            # Project documentation
-├── requirements.txt                     # List of Python dependencies (optional)
-└── data/                                # Folder to store dataset (if needed)
 
 ## 🏁 How to Run
 
